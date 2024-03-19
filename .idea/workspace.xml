@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3823d3d-db42-4c22-9992-acb566340cf0" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoAuthLogin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/userController.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../go/go1.19.3" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2bUTQsyTk6nMR0AgWYObi6XiEcp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="go build GoAuthLogin" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="GoAuthLogin" />
+      <working_directory value="$PROJECT_DIR$" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </EXTENSION>
+      <kind value="PACKAGE" />
+      <package value="GoAuthLogin" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3823d3d-db42-4c22-9992-acb566340cf0" name="Changes" comment="" />
+      <created>1706268656820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706268656820</updated>
+      <workItem from="1706268658461" duration="5753000" />
+      <workItem from="1706446420139" duration="1216000" />
+      <workItem from="1706573258591" duration="690000" />
+      <workItem from="1706581098207" duration="93000" />
+      <workItem from="1706584047475" duration="2899000" />
+      <workItem from="1706655435224" duration="917000" />
+      <workItem from="1706663255169" duration="2907000" />
+      <workItem from="1706753441879" duration="3443000" />
+      <workItem from="1706760091151" duration="2941000" />
+      <workItem from="1706834702634" duration="6395000" />
+      <workItem from="1706915337052" duration="688000" />
+      <workItem from="1706951015444" duration="109000" />
+      <workItem from="1707012153695" duration="5970000" />
+      <workItem from="1707147255171" duration="1570000" />
+      <workItem from="1707247012542" duration="790000" />
+      <workItem from="1707270540369" duration="4803000" />
+      <workItem from="1707446902239" duration="699000" />
+      <workItem from="1707477192096" duration="7931000" />
+      <workItem from="1707623188119" duration="2686000" />
+      <workItem from="1707709748618" duration="2240000" />
+      <workItem from="1707777538789" duration="2524000" />
+      <workItem from="1708137958899" duration="2456000" />
+      <workItem from="1708182882780" duration="598000" />
+      <workItem from="1708389702110" duration="4948000" />
+      <workItem from="1708487075160" duration="5035000" />
+      <workItem from="1708689760891" duration="7166000" />
+      <workItem from="1708827039179" duration="769000" />
+      <workItem from="1709542342942" duration="598000" />
+      <workItem from="1709549127981" duration="2895000" />
+      <workItem from="1709733406337" duration="970000" />
+      <workItem from="1709870983898" duration="416000" />
+      <workItem from="1709871429368" duration="1600000" />
+      <workItem from="1710064722913" duration="7143000" />
+      <workItem from="1710078077072" duration="117000" />
+      <workItem from="1710079094853" duration="484000" />
+      <workItem from="1710123229685" duration="499000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1710077460013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710077460013</updated>
+    </task>
+    <task id="LOCAL-00002" summary="verification error unfixed">
+      <created>1710077535690</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710077535690</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="verification error unfixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="verification error unfixed" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
